@@ -15,11 +15,16 @@ Site C: 192.168.30.0/24
 Site D: 192.168.40.0/24
 
 I configured hostnames and passwords on all routers and switches for security. IP addresses were manually assigned to all interfaces, ensuring proper network segmentation. Static routes were set up on each router to enable communication between all sites. In addition, I configured floating static routes with higher administrative distances to provide redundancy in case of a primary route failure.
+Also , I deployed DHCP services on each router, allowing PCs at all sites to receive IP addresses dynamically. The DHCP configuration included IP exclusions, gateway assignment, and DNS settings. 
+I tested connectivity between routers and verified dynamic address assignment on all PCs.
+Connectivity between devices was tested using ping commands and Packet Tracer’s Simulation Mode. 
+For example, PC "OCEANE" at Site A successfully communicated with the Web Server at Site D, confirming network functionality.
 
-Connectivity between devices was tested using ping commands and Packet Tracer’s Simulation Mode. For example, PC "OCEANE" at Site A successfully communicated with the Web Server at Site D, confirming network functionality.
+This project strengthened my skills in IP addressing, routing, switch and router configuration, network troubleshooting, 
+and redundancy planning. I also gained experience in creating network diagrams and maintaining detailed documentation.
+I gained a lot of skills such as :
 
-This project strengthened my skills in IP addressing, routing, switch and router configuration, network troubleshooting, and redundancy planning. I also gained experience in creating network diagrams and maintaining detailed documentation.
-Skills Gained:
+-DHCP configuration on routers and Troubleshooting LAN connectivity
 
 -Networking Fundamentals	:
 IP Addressing & Subnetting
