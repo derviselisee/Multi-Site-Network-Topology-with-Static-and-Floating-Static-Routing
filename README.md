@@ -47,6 +47,8 @@ Clear project goals and results summary
 
 -Security Basics :
 Password protection on routers and switches
-Testing and validating network behavior
-![Screenshot 2025-05-23 at 7 16 21 PM](https://github.com/user-attachments/assets/321b26a9-404a-47ce-9612-bb1070bc2b18)
+Testing and validating network behavior![router dhcp config](https://github.com/user-attachments/assets/e823f1ab-8eb7-46b0-92d2-a1500de557ed)![new pc added dhcp ip addressing](https://github.com/user-attachments/assets/f36c693c-37a2-4a10-b382-9cc9c2e1da21)
+
+![new pc added (ZADI) test connectivity](https://github.com/user-attachments/assets/5563aaf3-312e-47ed-ba64-e4c781335515)
+
 ![Screenshot 2025-05-23 at 7 16 21 PM](https://github.com/user-attachments/assets/9e0f21db-9e4d-4d01-ab78-de4b5816c519)
